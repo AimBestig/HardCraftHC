@@ -1,2 +1,2 @@
-# HardCraftHC
-Mejor Servidor
+# HardCraft
+Servidor HardCraft El Mejor
