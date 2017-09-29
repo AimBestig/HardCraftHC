@@ -281,8 +281,8 @@ fieldset[disabled] .navbar-grey .btn-link:focus {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  color: #fff;
-  background-color: #1CC7E3;
+  color: #fff200;
+  background-color: #fff654;
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
